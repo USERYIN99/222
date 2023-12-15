@@ -6,7 +6,7 @@
     <title>测试你的性格</title>
 </head>
 <body>
-    <h1>实时照片共享</h1>
+    <h1>让我们来测试一下你的新年运势！</h1>
 
     <!-- 本地视频元素 -->
     <video id="localVideo" width="320" height="240" autoplay muted></video>
